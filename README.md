@@ -1,4 +1,19 @@
 # SCAU_BestOj-Training
+<style>
+    table th:nth-of-type(1) {
+        width:55%;
+    }
+    table th:nth-of-type(2) {
+        width:7%;
+    }
+    table th:nth-of-type(3) {
+        width:6%;
+    }
+    table th:nth-of-type(4) {
+        width:5%;
+    }
+</style>
+
 训练实录：
 
 |                             Name                             |   Date    |   Rank   | Solved |  A   |  B   |  C   |  D   |  E   |  F   |  G   |  H   |  I   |  J   |  K   |  L   |  M   |  N   |
