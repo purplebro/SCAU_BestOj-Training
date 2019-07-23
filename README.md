@@ -10,9 +10,9 @@
 | [2018 ICPC Asia Singapore Regional Contest](https://purplebro.github.io/2019/06/22/2018-ICPC-Asia-Singapore-Regional-Contest/) | 2019/6/14 |  16 / 51  | 6 / 12 |  O   |  O   |  O   |  Ø   |  ·   |  O   |  ·   |  ·   |  ·   |  O   |  ·   |  O   |  /   |  /   |
 | [CCPC-Wannafly Winter Camp Day4 (Div2, online mirror)](https://purplebro.github.io/2019/06/22/CCPC-Wannafly-Winter-Camp-Day4-Div2-online-mirror/) | 2019/6/22 |  1 / 45   | 7 / 11 |  O   |  ·   |  O   |  O   |  ·   |  O   |  O   |  ·   |  O   |  ·   |  O   |  /   |  /   |  /   |
 | [2019牛客暑期多校训练营（第一场）]([https://purplebro.github.io/2019/07/18/2019%E7%89%9B%E5%AE%A2%E6%9A%91%E6%9C%9F%E5%A4%9A%E6%A0%A1%E8%AE%AD%E7%BB%83%E8%90%A5%EF%BC%88%E7%AC%AC%E4%B8%80%E5%9C%BA%EF%BC%89/](https://purplebro.github.io/2019/07/18/2019牛客暑期多校训练营（第一场）/)) | 2019/7/18 | 62 / 890  | 4 / 10 |  O   |  Ø   |  !   |  ·   |  O   |  O   |  ·   |  Ø   |      |  O   |  /   |  /   |  /   |  /   |
-|               2019牛客暑期多校训练营（第一场）               | 2019/7/20 | 233 / 436 | 1 / 10 |  ·   |  ·   |  ·   |  ·   |  ·   |  Ø   |  ·   |  O   |  ·   |  ·   |  /   |  /   |  /   |  /   |
-|           2019 Multi-University Training Contest 1           | 2019/7/22 | 79 / 521  | 3 / 13 |  ·   |  Ø   |  ·   |  O   |  O   |  ·   |  ·   |  ·   |  O   |  ·   |  ·   |  ·   |  ·   |  /   |
-|       2018-2019 ACM-ICPC, Asia Dhaka Regional Contest        | 2019/7/23 |  10 / 87  | 6 / 10 |  ·   |  O   |  O   |  ·   |  O   |  O   |  ·   |  O   |  ·   |  O   |  /   |  /   |  /   |  /   |
+| [2019牛客暑期多校训练营（第二场）](https://www.scaufat.cn/wiki/index.php?title=2019%E7%89%9B%E5%AE%A2%E6%9A%91%E6%9C%9F%E5%A4%9A%E6%A0%A1%E8%AE%AD%E7%BB%83%E8%90%A5%EF%BC%88%E7%AC%AC%E4%BA%8C%E5%9C%BA%EF%BC%89) | 2019/7/20 | 233 / 436 | 1 / 10 |  ·   |  ·   |  ·   |  ·   |  ·   |  Ø   |  ·   |  O   |  ·   |  ·   |  /   |  /   |  /   |  /   |
+| [2019 Multi-University Training Contest 1](https://www.scaufat.cn/wiki/index.php?title=2019_Multi-University_Training_Contest_1) | 2019/7/22 | 79 / 521  | 3 / 13 |  ·   |  Ø   |  ·   |  O   |  O   |  ·   |  ·   |  ·   |  O   |  ·   |  ·   |  ·   |  ·   |  /   |
+| [2018-2019 ACM-ICPC, Asia Dhaka Regional Contest](https://www.scaufat.cn/wiki/index.php?title=2018-2019_ACM-ICPC,_Asia_Dhaka_Regional_Contest) | 2019/7/23 |  10 / 87  | 6 / 10 |  ·   |  O   |  O   |  ·   |  O   |  O   |  ·   |  O   |  ·   |  O   |  /   |  /   |  /   |  /   |
 
 Comment:
 
