@@ -14,6 +14,8 @@
 | [2019 Multi-University Training Contest 1](https://www.scaufat.cn/wiki/index.php?title=2019_Multi-University_Training_Contest_1) | 2019/7/22 | 79 / 521  | 3 / 13 |  ·   |  Ø   |  ·   |  O   |  O   |  ·   |  ·   |  ·   |  O   |  ·   |  ·   |  ·   |  ·   |  /   |
 | [2018-2019 ACM-ICPC, Asia Dhaka Regional Contest](https://www.scaufat.cn/wiki/index.php?title=2018-2019_ACM-ICPC,_Asia_Dhaka_Regional_Contest) | 2019/7/23 |  10 / 87  | 6 / 10 |  ·   |  O   |  O   |  ·   |  O   |  O   |  ·   |  O   |  ·   |  O   |  /   |  /   |  /   |  /   |
 | [2019 Multi-University Training Contest 2](https://www.scaufat.cn/wiki/index.php?title=2019_Multi-University_Training_Contest_2#Problem_1007) | 2019/7/24 | 53 / 829  | 5 / 12 |  ·   |  ·   |  ·   |  ·   |  O   |  Ø   |  ·   |  Ø   |  O   |  O   |  O   |  O   |  /   |  /   |
+| [2019牛客暑期多校训练营（第三场）](https://www.scaufat.cn/wiki/index.php?title=2019%E7%89%9B%E5%AE%A2%E6%9A%91%E6%9C%9F%E5%A4%9A%E6%A0%A1%E8%AE%AD%E7%BB%83%E8%90%A5%EF%BC%88%E7%AC%AC%E4%B8%89%E5%9C%BA%EF%BC%89) | 2019/7/25 | 75 / 800  | 4 / 10 |  Ø   |  O   |  Ø   |  ·   |  ·   |  O   |  Ø   |  O   |  ·   |  O   |  /   |  /   |  /   |  /   |
+| [2019牛客暑期多校训练营（第四场）](https://www.scaufat.cn/wiki/index.php?title=2019%E7%89%9B%E5%AE%A2%E6%9A%91%E6%9C%9F%E5%A4%9A%E6%A0%A1%E8%AE%AD%E7%BB%83%E8%90%A5%EF%BC%88%E7%AC%AC%E5%9B%9B%E5%9C%BA%EF%BC%89) | 2019/7/27 | 93 / 696  | 5 / 11 |  O   |  ·   |  O   |  O   |  ·   |  ·   |  ·   |  ·   |  Ø   |  O   |  O   |  /   |  /   |  /   |
 
 Comment:
 
